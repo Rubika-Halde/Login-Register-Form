@@ -1,0 +1,41 @@
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  color: white;
+  align-items: center;
+  margin: auto;
+  background-color: rgb(30, 29, 29);
+  border-bottom: 2px solid rgb(40, 39, 39);
+}
+h2 {
+  margin-left: 20px;
+}
+.navbar-head a {
+  text-decoration: none;
+  margin-right: 30px;
+  color: white;
+  font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
